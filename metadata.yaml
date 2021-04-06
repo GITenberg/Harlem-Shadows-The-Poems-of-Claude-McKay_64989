@@ -1,0 +1,29 @@
+_repo: Harlem-Shadows-The-Poems-of-Claude-McKay_64989
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Eastman, Max
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '38060'
+    url: http://www.gutenberg.org/2009/agents/38060
+creator:
+  author:
+    agent_name: McKay, Claude
+    gutenberg_agent_id: '53133'
+    url: http://www.gutenberg.org/2009/agents/53133
+description: ''
+gutenberg_issued: '2021-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Harlem Shadows
+
+  The Poems of Claude McKay'
+url: http://www.gutenberg.org/ebooks/64989
