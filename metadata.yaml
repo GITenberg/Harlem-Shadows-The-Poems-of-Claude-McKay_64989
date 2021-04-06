@@ -7,12 +7,17 @@ contributor:
     deathdate: 1969
     gutenberg_agent_id: '38060'
     url: http://www.gutenberg.org/2009/agents/38060
+covers:
+- cover_type: archival
+  image_path: 64989-h/images/cover.jpg
 creator:
   author:
     agent_name: McKay, Claude
     gutenberg_agent_id: '53133'
     url: http://www.gutenberg.org/2009/agents/53133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64989#Harlem-Shadows-The-Poems-of-Claude-McKay
 gutenberg_issued: '2021-04-04'
 gutenberg_type: Text
 identifiers:
